@@ -1,0 +1,3 @@
+pandas==1.4.0
+protoDadosjusbr>=0.7
+protobuf==3.18.0
